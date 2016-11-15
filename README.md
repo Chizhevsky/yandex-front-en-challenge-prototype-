@@ -3,7 +3,7 @@
 - react  (использованы components, state, props, events, router)
 - flux (store, dispatcher, action)
 - bootstrap 3
-- первые версии html и css <br/>
+- первые версии html и css <br/><br/>
 Причины использования react:
 - попсовость (50 000 звёзд на github)
 - совет друзей
