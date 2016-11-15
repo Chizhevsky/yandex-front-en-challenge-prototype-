@@ -4,7 +4,7 @@
 - flux (store, dispatcher, action)
 - bootstrap 3
 - первые версии html и css <br/><br/>
-[gh-page][id]:https://chizhevsky.github.io/yandex-front-en-challenge-prototype-/src/index.html
+[gh-page](https://chizhevsky.github.io/yandex-front-en-challenge-prototype-/src/index.html)
 Причины использования react:
 - попсовость (50 000 звёзд на github)
 - совет друзей
