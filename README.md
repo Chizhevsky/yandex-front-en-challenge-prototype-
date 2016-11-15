@@ -1,4 +1,4 @@
-Прототип веб-приложения для олимпиады bit cup 2016 конкурс Yandex Front-end Challenge
+#Прототип веб-приложения для олимпиады bit cup 2016 конкурс Yandex Front-end Challenge
 Прототип сделан с помощью следующих технологий и библиотек:
 - react  (использованы components, state, props, events, router)
 - flux (store, dispatcher, action)
