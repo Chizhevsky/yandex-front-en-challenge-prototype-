@@ -1,0 +1,60 @@
+body {
+    background-color: whitesmoke;
+}
+
+#headersTopMargin {
+    margin: 30px 0 5px;
+    /*border: 0 solid white;*/
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+    background-color: whitesmoke;
+}
+
+#footerInHeader {
+    border-top: 1px solid whitesmoke;
+    background-color: white;
+}
+
+#mainDiv {
+    /*border: 0 solid white;*/
+}
+
+#mainDiv > div:nth-child(2) {
+    min-height: 150px;
+}
+
+#panelHeadingInMain {
+    background-color: white;
+    border-bottom: 4px solid whitesmoke;
+    min-height: 200px;
+}
+
+#panelHeadingInMain h2 {
+    line-height: 80px;
+}
+
+#panelInRules {
+    /*border: 0 solid white;*/
+}
+
+td {
+    font-size: small;
+}
+
+td label {
+    margin-top: -20px;
+}
+
+.rightBet {
+    background-color: honeydew;
+}
+
+#afterBet {
+    display: none;
+}
